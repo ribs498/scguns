@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "scguns:block/cobbled_veridium",
+    "side": "scguns:block/cobbled_veridium",
+    "top": "scguns:block/cobbled_veridium"
+  }
+}

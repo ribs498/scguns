@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "scguns:treated_wood_door",
+        "scguns:nordic_door",
+        "scguns:venthyr_door",
+        "scguns:necro_door",
+        "scguns:dunmer_door"
+    ]
+}

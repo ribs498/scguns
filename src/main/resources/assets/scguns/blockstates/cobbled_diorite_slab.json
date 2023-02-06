@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_diorite_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_diorite"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_diorite_slab_top"
+    }
+  }
+}

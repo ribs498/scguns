@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "scguns:block/oil_geyser"
+    },
+    "facing=south": {
+      "model": "scguns:block/oil_geyser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "scguns:block/oil_geyser",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "scguns:block/oil_geyser",
+      "y": 90
+    }
+  }
+}

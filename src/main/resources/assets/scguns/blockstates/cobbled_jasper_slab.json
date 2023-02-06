@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_jasper_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_jasper"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_jasper_slab_top"
+    }
+  }
+}

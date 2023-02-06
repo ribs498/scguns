@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/venthyr_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/venthyr_planks"
+    },
+    "type=top": {
+      "model": "scguns:block/venthyr_slab_top"
+    }
+  }
+}

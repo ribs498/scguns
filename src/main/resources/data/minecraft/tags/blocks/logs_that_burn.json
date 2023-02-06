@@ -1,0 +1,21 @@
+{
+  "values": [
+    "scguns:venthyr_log",
+    "scguns:stripped_venthyr_log",
+    "scguns:venthyr_wood",
+    "scguns:stripped_venthyr_wood",
+    "scguns:nordic_log",
+    "scguns:stripped_nordic_log",
+    "scguns:nordic_wood",
+    "scguns:stripped_nordic_wood",
+    "scguns:dunmer_log",
+    "scguns:stripped_dunmer_log",
+    "scguns:dunmer_wood",
+    "scguns:stripped_dunmer_wood",
+    "scguns:necro_log",
+    "scguns:stripped_necro_log",
+    "scguns:necro_wood",
+    "scguns:stripped_necro_wood",
+    "scguns:treated_log"
+  ]
+}

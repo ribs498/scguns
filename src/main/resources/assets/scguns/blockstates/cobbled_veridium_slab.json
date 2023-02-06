@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_veridium_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_veridium"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_veridium_slab_top"
+    }
+  }
+}

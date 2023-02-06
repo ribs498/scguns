@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_andesite_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_andesite"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_andesite_slab_top"
+    }
+  }
+}

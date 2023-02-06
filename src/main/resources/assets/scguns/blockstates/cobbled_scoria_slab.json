@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_scoria_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_scoria"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_scoria_slab_top"
+    }
+  }
+}

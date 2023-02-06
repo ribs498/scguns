@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "scguns:dunmer_slab",
+        "scguns:nordic_slab",
+        "scguns:necro_slab",
+        "scguns:venthyr_slab"
+    ]
+}

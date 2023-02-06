@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_conglomerate_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_conglomerate"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_conglomerate_slab_top"
+    }
+  }
+}

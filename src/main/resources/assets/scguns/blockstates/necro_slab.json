@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/necro_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/necro_planks"
+    },
+    "type=top": {
+      "model": "scguns:block/necro_slab_top"
+    }
+  }
+}

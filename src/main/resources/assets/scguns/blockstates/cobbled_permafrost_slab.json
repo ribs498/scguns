@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_permafrost_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_permafrost"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_permafrost_slab_top"
+    }
+  }
+}

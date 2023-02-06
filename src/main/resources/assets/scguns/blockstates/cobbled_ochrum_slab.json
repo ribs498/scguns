@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_ochrum_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_ochrum"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_ochrum_slab_top"
+    }
+  }
+}

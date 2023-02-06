@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_right_open",
+  "textures": {
+    "bottom": "scguns:block/dunmer_door_bottom",
+    "top": "scguns:block/dunmer_door_top"
+  }
+}

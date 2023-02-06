@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "scguns:block/raw_nickel_bricks",
+    "side": "scguns:block/raw_nickel_bricks",
+    "top": "scguns:block/raw_nickel_bricks"
+  }
+}

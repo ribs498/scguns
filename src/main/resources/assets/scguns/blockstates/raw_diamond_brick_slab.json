@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/raw_diamond_brick_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/raw_diamond_bricks"
+    },
+    "type=top": {
+      "model": "scguns:block/raw_diamond_brick_slab_top"
+    }
+  }
+}

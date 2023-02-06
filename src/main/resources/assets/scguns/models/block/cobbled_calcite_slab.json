@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/slab",
+  "textures": {
+    "bottom": "scguns:block/cobbled_calcite",
+    "side": "scguns:block/cobbled_calcite",
+    "top": "scguns:block/cobbled_calcite"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_granite_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_granite"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_granite_slab_top"
+    }
+  }
+}

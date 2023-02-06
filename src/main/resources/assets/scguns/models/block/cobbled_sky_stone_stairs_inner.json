@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "scguns:block/cobbled_sky_stone",
+    "side": "scguns:block/cobbled_sky_stone",
+    "top": "scguns:block/cobbled_sky_stone"
+  }
+}

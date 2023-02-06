@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_tuff_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_tuff"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_tuff_slab_top"
+    }
+  }
+}

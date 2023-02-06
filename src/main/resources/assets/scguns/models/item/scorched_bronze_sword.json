@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "scguns:item/scorched_bronze_sword"
+
+  }
+}

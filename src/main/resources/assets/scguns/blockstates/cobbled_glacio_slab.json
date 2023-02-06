@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_glacio_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_glacio"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_glacio_slab_top"
+    }
+  }
+}

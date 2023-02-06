@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "scguns:block/cobbled_andesite",
+    "side": "scguns:block/cobbled_andesite",
+    "top": "scguns:block/cobbled_andesite"
+  }
+}

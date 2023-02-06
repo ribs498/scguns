@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/stairs",
+  "textures": {
+    "bottom": "scguns:block/cobbled_permafrost",
+    "side": "scguns:block/cobbled_permafrost",
+    "top": "scguns:block/cobbled_permafrost"
+  }
+}

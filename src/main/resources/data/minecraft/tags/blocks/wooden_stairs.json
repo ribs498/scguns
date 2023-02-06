@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "scguns:dunmer_stairs",
+        "scguns:nordic_stairs",
+        "scguns:necro_stairs",
+        "scguns:venthyr_stairs"
+    ]
+}

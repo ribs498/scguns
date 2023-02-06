@@ -1,0 +1,9 @@
+{
+    "replace": false,
+    "values": [
+        "scguns:dunmer_fence_gate",
+        "scguns:nordic_fence_gate",
+        "scguns:venthyr_fence_gate",
+        "scguns:necro_fence_gate"
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_crimsite_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_crimsite"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_crimsite_slab_top"
+    }
+  }
+}

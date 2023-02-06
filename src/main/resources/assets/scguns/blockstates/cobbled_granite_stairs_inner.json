@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "scguns:block/cobbled_granite",
+    "side": "scguns:block/cobbled_granite",
+    "top": "scguns:block/cobbled_granite"
+  }
+}

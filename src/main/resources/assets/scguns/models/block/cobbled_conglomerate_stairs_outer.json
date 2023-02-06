@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "scguns:block/cobbled_conglomerate",
+    "side": "scguns:block/cobbled_conglomerate",
+    "top": "scguns:block/cobbled_conglomerate"
+  }
+}

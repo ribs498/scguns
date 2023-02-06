@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "scguns:block/cobbled_crimsite",
+    "side": "scguns:block/cobbled_crimsite",
+    "top": "scguns:block/cobbled_crimsite"
+  }
+}

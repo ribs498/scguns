@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "scguns:block/end_stone_etherium_ore"
+  }
+}

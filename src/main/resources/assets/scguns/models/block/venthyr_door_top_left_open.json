@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left_open",
+  "textures": {
+    "bottom": "scguns:block/venthyr_door_bottom",
+    "top": "scguns:block/venthyr_door_top"
+  }
+}

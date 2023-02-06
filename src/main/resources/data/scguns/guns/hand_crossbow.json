@@ -1,0 +1,48 @@
+{
+  "general": {
+    "rate": 20,
+    "gripType": "cgm:one_handed",
+    "maxAmmo": 1,
+    "reloadAmount": 1,
+    "recoilAngle": 10.0,
+    "recoilKick": 0.7
+  },
+  "projectile": {
+    "item": "scguns:shotbolt",
+    "damage": 10.0,
+    "size": 1.0,
+    "speed": 4.0,
+    "life": 5
+  },
+  "sounds": {
+    "fire": "cgm:item.machine_pistol.fire",
+    "reload": "cgm:item.pistol.reload",
+    "cock": "cgm:item.shotgun.cock",
+    "silencedFire": "cgm:item.shotgun.silenced_fire",
+    "enchantedFire": "cgm:item.shotgun.enchanted_fire"
+  },
+  "display": {
+    "flash": {
+
+    }
+  },
+  "modules": {
+    "zoom": {
+      "yOffset": 4.8,
+      "zOffset": 2.3,
+      "fovModifier": 1
+    },
+    "attachments": {
+      "scope": {
+        "yOffset": 4.5,
+        "zOffset": 6.6,
+        "scale": 0.6
+      },
+      "stock": {
+        "yOffset": 3.8,
+        "zOffset": 8.5,
+        "scale": 0.75
+      }
+    }
+  }
+}

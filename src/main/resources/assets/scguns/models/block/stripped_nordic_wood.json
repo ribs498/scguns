@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "scguns:block/stripped_nordic_log",
+    "side": "scguns:block/stripped_nordic_log"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "scguns:block/cobbled_limestone",
+    "side": "scguns:block/cobbled_limestone",
+    "top": "scguns:block/cobbled_limestone"
+  }
+}

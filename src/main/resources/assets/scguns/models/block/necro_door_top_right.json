@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right",
+  "textures": {
+    "bottom": "scguns:block/necro_door_bottom",
+    "top": "scguns:block/necro_door_top"
+  }
+}

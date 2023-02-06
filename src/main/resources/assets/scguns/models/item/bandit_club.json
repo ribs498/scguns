@@ -1,0 +1,81 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"0": "scguns:item/club_texture",
+		"particle": "scguns:item/club_texture"
+	},
+	"elements": [
+		{
+			"name": "club",
+			"from": [9.25, -6, 3],
+			"to": [10.25, 12.25, 5],
+			"faces": {
+				"north": {"uv": [2.25, 5.25, 2.5, 9.75], "texture": "#0"},
+				"east": {"uv": [1.25, 3, 1.75, 7.5], "texture": "#0"},
+				"south": {"uv": [2.5, 5.25, 2.75, 9.75], "texture": "#0"},
+				"west": {"uv": [1.75, 3, 2.25, 7.5], "texture": "#0"},
+				"up": {"uv": [4.5, 5.75, 4.25, 5.25], "texture": "#0"},
+				"down": {"uv": [4.75, 5.25, 4.5, 5.75], "texture": "#0"}
+			}
+		},
+		{
+			"name": "club",
+			"from": [8.25, 3, 2],
+			"to": [11.25, 12.25, 6],
+			"faces": {
+				"north": {"uv": [4.25, 3, 5, 5.25], "texture": "#0"},
+				"east": {"uv": [2.25, 3, 3.25, 5.25], "texture": "#0"},
+				"south": {"uv": [5, 3, 5.75, 5.25], "texture": "#0"},
+				"west": {"uv": [3.25, 3, 4.25, 5.25], "texture": "#0"},
+				"up": {"uv": [3.5, 6.25, 2.75, 5.25], "texture": "#0"},
+				"down": {"uv": [4.25, 5.25, 3.5, 6.25], "texture": "#0"}
+			}
+		},
+		{
+			"name": "club",
+			"from": [7.25, 10, 1],
+			"to": [12.25, 22.25, 7],
+			"faces": {
+				"north": {"uv": [0, 3, 1.25, 6], "texture": "#0"},
+				"east": {"uv": [0, 0, 1.5, 3], "texture": "#0"},
+				"south": {"uv": [3, 0, 4.25, 3], "texture": "#0"},
+				"west": {"uv": [1.5, 0, 3, 3], "texture": "#0"},
+				"up": {"uv": [5.5, 1.5, 4.25, 0], "texture": "#0"},
+				"down": {"uv": [5.5, 1.5, 4.25, 3], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [-1.75, 4.75, 5.25],
+			"scale": [0.81, 0.81, 0.81]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, -24],
+			"translation": [0, 3.25, 0]
+		},
+		"ground": {
+			"rotation": [0, -9, -90],
+			"translation": [0, -0.25, 1.5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [9, -48, 57],
+			"translation": [-2, -1.25, 0],
+			"scale": [0.65, 0.65, 0.65]
+		},
+		"fixed": {
+			"translation": [0, 0, 1.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "club",
+			"origin": [9, 21, 2],
+			"rotation": [-90, 0, 0],
+			"color": 3,
+			"children": [0, 1, 2]
+		}
+	]
+}

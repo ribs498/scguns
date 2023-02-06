@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "scguns:block/necro_log",
+    "side": "scguns:block/necro_log"
+  }
+}

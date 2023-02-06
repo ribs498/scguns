@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "scguns:block_of_vehement_coal",
+    "scguns:tin_block",
+    "scguns:scorched_bronze_block",
+    "scguns:block_of_tin_bronze"
+  ]
+}

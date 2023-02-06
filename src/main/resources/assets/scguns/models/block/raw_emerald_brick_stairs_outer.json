@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/outer_stairs",
+  "textures": {
+    "bottom": "scguns:block/raw_emerald_bricks",
+    "side": "scguns:block/raw_emerald_bricks",
+    "top": "scguns:block/raw_emerald_bricks"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "scguns:item/tin_bronze_knife"
+
+  }
+}

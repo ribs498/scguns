@@ -1,0 +1,10 @@
+{
+    "replace": false,
+    "values": [
+        "scguns:nordic_planks",
+        "scguns:necro_planks",
+        "scguns:venthyr_planks",
+        "scguns:dunmer_planks",
+        "scguns:treated_wood_casing"
+    ]
+}

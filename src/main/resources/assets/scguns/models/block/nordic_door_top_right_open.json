@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_right_open",
+  "textures": {
+    "bottom": "scguns:block/nordic_door_bottom",
+    "top": "scguns:block/nordic_door_top"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "general": {
+    "auto": true,
+    "rate": 4,
+    "gripType": "cgm:mini_gun",
+    "maxAmmo": 5,
+    "reloadAmount": 4,
+    "recoilAngle": 4.0,
+    "alwaysSpread": true,
+    "projectileAmount": 9,
+    "spread": 7.0
+  },
+  "projectile": {
+    "item": "scguns:shotbolt",
+    "damage": 13.0,
+    "size": 0.8,
+    "speed": 8.0,
+    "life": 30,
+    "visible": false
+  },
+  "sounds": {
+    "fire": "cgm:item.machine_pistol.fire",
+    "reload": "cgm:item.pistol.reload",
+    "enchantedFire": "cgm:item.mini_gun.enchanted_fire"
+  },
+  "display": {
+
+  }
+}

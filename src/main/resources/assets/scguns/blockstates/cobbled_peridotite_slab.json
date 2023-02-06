@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "scguns:block/cobbled_peridotite_slab"
+    },
+    "type=double": {
+      "model": "scguns:block/cobbled_peridotite"
+    },
+    "type=top": {
+      "model": "scguns:block/cobbled_peridotite_slab_top"
+    }
+  }
+}
